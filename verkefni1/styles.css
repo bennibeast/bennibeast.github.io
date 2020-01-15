@@ -1,0 +1,29 @@
+body{
+    max-width: 60em;
+    border: 1px crimson; /*-width -style -color */
+    margin: 1em;/*top+bottom/left+right*/
+    padding: 1em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+h1 {
+text-align: center;
+color: crimson;
+}
+
+.ljod p {
+    font-style: italic;
+    color: darkmagenta;
+}
+.ljod strong{
+color: red;
+}
+.ljod{
+margin:left
+}
+.ok p{
+color: darkgreen;
+}
+
+
+
+ 
