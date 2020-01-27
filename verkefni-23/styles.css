@@ -1,0 +1,23 @@
+.box{
+    box-sizing: border-box;
+}
+.box{
+    border: ipx solid;
+    padding: 1em;
+    width: 50%;
+    float: left;
+}
+.bigL{
+    float: left ;
+    font-size: 3em;
+    padding: 0.24 .4em 0 .4em;/*top- right -bottom -left */
+}
+.imgr{
+    float :right ;
+    padding-left:  0.5em;
+    width: 60%; 
+}
+.imgR img {
+    width: 100%;
+    height: auto;
+}
